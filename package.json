@@ -9,7 +9,7 @@
     "lib-flexible": "^0.3.2",
     "mobx": "^5.10.1",
     "mobx-react": "^6.1.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "postcss-px2rem": "^0.3.0",
     "postcss-px2rem-exclude": "0.0.6",
     "prop-types": "^15.7.2",
